@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	
 	//API
 	{
-		const API_KEY = 'AIzaSyAp0QANyLZGaNM7MAHRREwugaCAi_hbOig';
+		const API_KEY = 'AIzaSyDkfFZ3tkL2uEKkqtTZzbnzOmyat179AMQ';
 		const CLIENT_ID ='155875051348-me2rqptibtaq2f5btebg6n4m029geub6.apps.googleusercontent.com';
 		//авторизация
 		{
