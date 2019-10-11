@@ -1,1 +1,1 @@
-https://georgetuz.github.io/
+https://georgetuz.github.io/GloAcademy
